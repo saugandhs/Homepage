@@ -1,4 +1,4 @@
-# Saugandh Gupta — Portfolio Homepage
+# Saugandh Sasidharan — Portfolio Homepage
 
 Personal portfolio/biodata website for job seeking. Built with vanilla HTML, CSS, and JavaScript. Deployed on Vercel.
 
@@ -27,7 +27,7 @@ Before deploying, update the following in `index.html`:
 - `your.email@example.com` → your real email address
 - `https://linkedin.com/in/yourprofile` → your LinkedIn URL
 - `https://github.com/yourgithub` → your GitHub URL
-- The `SG` initials in the avatar → your own initials
+- The `SS` initials in the avatar → your own initials
 - Years of experience stat if needed
 
 ## 🎨 Features
